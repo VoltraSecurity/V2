@@ -1,0 +1,14 @@
+[
+  {
+    "token": "123456789:ABCdefGhIJKlmNoPQRstuVWxyz1a2B3cDE",
+    "allowed": true
+  },
+  {
+    "token": "987654321:ZYXwVuTsrQPonmLKJihgFeDcba9X8Y7ZxW",
+    "allowed": false
+  },
+  {
+    "token": "111222333:TESTtokenForOtherBot",
+    "allowed": true
+  }
+]
