@@ -1,5 +1,5 @@
 {
-  "tokens": [
-    "7506508428:AAHk5_lfp0oJsO7E063_veHvHGLXJyFWPII"
-  ]
+  "enabled": true,
+  "message": "🚧 Bot sedang dalam mode maintenance.",
+  "bypass_ids": [7104250150, 123456789]
 }
